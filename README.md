@@ -1,5 +1,5 @@
 # PlatformGame
-Praca inżynierska
+Praca inżynierska - Platformówka 2D napisana w języku C++ przy użyciu biblioteki SDL2
 
 # Menu Start
 ![Screenshot](pics/1.png)
