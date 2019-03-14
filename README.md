@@ -2,10 +2,10 @@
 Praca inżynierska
 
 # Menu Start
-![Screenshot](pics/Menu główne.png)
+![Screenshot](pics/1.png)
 
 # Game
-![Screenshot](pics/Moja gra.png)
+![Screenshot](pics/2.png)
 
 # Map editor
-![Screenshot](pics/Edytor map.png)
+![Screenshot](pics/3.png)
